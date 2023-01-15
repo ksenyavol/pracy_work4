@@ -1,0 +1,15 @@
+C:\Users\pnz\Desktop\git_pract\pract_work4\work_25\bin\Debug\net6.0\work_25.exe
+C:\Users\pnz\Desktop\git_pract\pract_work4\work_25\bin\Debug\net6.0\work_25.deps.json
+C:\Users\pnz\Desktop\git_pract\pract_work4\work_25\bin\Debug\net6.0\work_25.runtimeconfig.json
+C:\Users\pnz\Desktop\git_pract\pract_work4\work_25\bin\Debug\net6.0\work_25.dll
+C:\Users\pnz\Desktop\git_pract\pract_work4\work_25\bin\Debug\net6.0\work_25.pdb
+C:\Users\pnz\Desktop\git_pract\pract_work4\work_25\obj\Debug\net6.0\work_25.csproj.AssemblyReference.cache
+C:\Users\pnz\Desktop\git_pract\pract_work4\work_25\obj\Debug\net6.0\work_25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pnz\Desktop\git_pract\pract_work4\work_25\obj\Debug\net6.0\work_25.AssemblyInfoInputs.cache
+C:\Users\pnz\Desktop\git_pract\pract_work4\work_25\obj\Debug\net6.0\work_25.AssemblyInfo.cs
+C:\Users\pnz\Desktop\git_pract\pract_work4\work_25\obj\Debug\net6.0\work_25.csproj.CoreCompileInputs.cache
+C:\Users\pnz\Desktop\git_pract\pract_work4\work_25\obj\Debug\net6.0\work_25.dll
+C:\Users\pnz\Desktop\git_pract\pract_work4\work_25\obj\Debug\net6.0\refint\work_25.dll
+C:\Users\pnz\Desktop\git_pract\pract_work4\work_25\obj\Debug\net6.0\work_25.pdb
+C:\Users\pnz\Desktop\git_pract\pract_work4\work_25\obj\Debug\net6.0\work_25.genruntimeconfig.cache
+C:\Users\pnz\Desktop\git_pract\pract_work4\work_25\obj\Debug\net6.0\ref\work_25.dll
